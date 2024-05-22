@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning fullstack web development
 - 💞️ I’m looking to collaborate on open source projects and educational resources.
 - 📫 How to reach me: jon040192@googlemail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a goldsmith in my spare time.
 
 <!---
